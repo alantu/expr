@@ -1,5 +1,5 @@
 {
-  "name": "expr",
+  "name": "node-expr",
   "version": "0.0.1",
   "description": "Javascript expression evaluator",
   "main": "index.js",
