@@ -1,7 +1,9 @@
 expr
 ====
 
-Simple and secure Javascript expression evaluator.
+[![Build Status](https://travis-ci.org/alantu/expr.svg?branch=master)](http://travis-ci.org/alantu/expr)
+
+**expr** is a simple and secure Javascript expression evaluator.
 Useful for evaluating dinamically generated expressions.
 
 
