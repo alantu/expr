@@ -1,7 +1,7 @@
 expr
 ====
 
-[![Build Status](https://travis-ci.org/alantu/expr.svg?branch=master)](http://travis-ci.org/alantu/expr)
+[![NPM version](https://badge.fury.io/js/node-expr.svg)](http://badge.fury.io/js/node-expr) [![Build Status](https://travis-ci.org/alantu/expr.svg?branch=master)](http://travis-ci.org/alantu/expr)
 
 **expr** is a simple and secure Javascript expression evaluator.
 Useful for evaluating dinamically generated expressions.
